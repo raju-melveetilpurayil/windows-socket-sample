@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace SocketServer
 {
-    public class ServerForm : Form
+    public partial class ServerForm : Form
     {
         private ListBox clientsListBox;
         private TextBox messageTextBox;

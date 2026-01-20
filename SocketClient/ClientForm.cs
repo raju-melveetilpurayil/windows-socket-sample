@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace SocketClient
 {
-    public class ClientForm : Form
+    public partial  class ClientForm : Form
     {
         private TextBox serverTextBox;
         private TextBox portTextBox;
